@@ -1,20 +1,31 @@
 ## Fala! Sou Wlademir Dumaresq. 👋
 ### Me diz, vai ser a matéria em decomposição que o resto do mundo?
 
-- 🔭 Tenho trabalhado com PHP/Laravel ...
-- 🌱 As vezes dou uma olhada em Vue ...
+- 🔭 Tenho trabalhado com PHP/Laravel 
+- 🌱 As vezes dou uma olhada em Vue
 - 📫 wlademir.dumaresq@gmail.com
-<!--
-**wlademirdumaresq/wlademirdumaresq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div>
+  <a href="https://github.com/wlademirdumaresq">
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=wlademirdumaresq&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlademirdumaresq&layout=compact&langs_count=7&theme=monokai&locale=pt-BR"/>
+  <img height="180em" align="right" src="https://lh6.googleusercontent.com/TAyJFAPvezI-ILMRZFsiP6PApcIsTczDbL7gcnbNo67DeiYBVeD7Z7qnKgZPy-ix3H9z9U9zJ0HZ4Q=w1920-h1008-rw"/>
+</div>
+  
+ ##
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="dumaresq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dumaresq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dumaresq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="dumaresq-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="dumaresq-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg">
+  <img align="center" alt="dumaresq-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/laravel/laravel-plain.svg">   
+ </div>
+ 
+ ##
+  
+  <div> 
+  <a href = "mailto:wlademir.dumaresq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wlademir-dumaresq-aa587716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
