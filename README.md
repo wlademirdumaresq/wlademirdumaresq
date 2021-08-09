@@ -1,5 +1,9 @@
-### Hi there 👋
+## Fala! Sou Wlademir Dumaresq. 👋
+### Me diz, vai ser a matéria em decomposição que o resto do mundo?
 
+- 🔭 Tenho trabalhado com PHP/Laravel ...
+- 🌱 As vezes dou uma olhada em Vue ...
+- 📫 wlademir.dumaresq@gmail.com
 <!--
 **wlademirdumaresq/wlademirdumaresq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
