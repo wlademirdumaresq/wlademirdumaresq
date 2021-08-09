@@ -1,5 +1,5 @@
 ## Fala! Sou Wlademir Dumaresq. 👋
-### Me diz, vai ser a matéria em decomposição que o resto do mundo?
+### Me diz, vai ser a mesma matéria em decomposição que o resto do mundo?
 
 - 🔭 Tenho trabalhado com PHP/Laravel 
 - 🌱 As vezes dou uma olhada em Vue
