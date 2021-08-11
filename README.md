@@ -7,8 +7,8 @@
 ---
 <div>
   <a href="https://github.com/wlademirdumaresq">
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=wlademirdumaresq&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlademirdumaresq&layout=compact&langs_count=7&theme=monokai&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wlademirdumaresq&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlademirdumaresq&layout=compact&langs_count=7&theme=monokai&locale=pt-BR"/>
   <img height="180em" align="right" src="https://cdn.discordapp.com/attachments/723667850660806767/874447043102380062/AREmoji_20210809_085434_554.png"/>
 </div>
   
